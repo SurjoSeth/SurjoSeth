@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surjoseth" alt="surjoseth" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, Django and React.**
+- 🌱 I’m currently learning **Spring Boot, Angular and Vue.**
 
 - 👨‍💻 All of my projects are available at [https://surjoseth.vercel.app/](https://surjoseth.vercel.app/)
 
